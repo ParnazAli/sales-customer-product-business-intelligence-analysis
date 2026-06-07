@@ -1,4 +1,4 @@
-# Sales, Customer & Product Business Intelligence Analysis
+# adventureworks-sql-analysis
 
 ## Overview
 This project delivers a structured SQL-based analysis of the AdventureWorks dataset, a fictional bicycle manufacturer and retailer. It explores sales trends, customer behavior, and product performance using advanced SQL techniques — designed to extract actionable business insights from raw transactional data.
