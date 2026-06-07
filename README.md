@@ -1,4 +1,4 @@
-# sql_data_analytics_projec
+# Sales, Customer & Product Performance Analysis
 
 A structured collection of SQL scripts built for exploring, analyzing, and reporting on relational database data. This repository walks through key analytical techniques including database and dimensions exploration, date range analysis, ranking, time-based trends, and customer segmentation.
 
